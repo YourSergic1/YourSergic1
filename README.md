@@ -1,17 +1,26 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400"/>
 </div>
-<div id="badges">
+
+<h1 align="center">Привет👋 Меня зовут Сергей!</h1>
+
+<div id="badges" align="center">
    <a href="https://t.me/sergey_bugrov">
-   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
+   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
    <a href="mailto:yourserggic1@gmail.com">
-   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
+   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
    </a>
-   <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/>
+   <a href="https://vk.com/yoursergic">
+   <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Vk Badge"/>
+   </a>
 </div>
 
-## Hi there 👋
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoursergic1&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 
 <!--
 **YourSergic1/YourSergic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
