@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NseTRpYWtzNjZjNzFsbHpiZDR3OGdxMjQ1bmdxOGgzcDdicDBvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXf5TNUhGL2jxPYEmh/giphy.gif)" width="100"/>
 </div>
 ## Hi there 👋
 
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="298" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">via GIPHY</a></p>
