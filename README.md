@@ -51,9 +51,28 @@
 <h3 align="left">🛠 Технологии:</h3>
 
 <div align="left">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PSQL"  alt="PSQL" width="40" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="С"  alt="С" width="60" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Сplusplus"  alt="Сplusplus" width="40" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git"  alt="git" width="40" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt"  alt="qt" width="40" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+</div>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-</div>
+---
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoursergic1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="250" alt="languages graph"  />
+
+
+---
+
+
+  ![Codewars](https://github.r2v.ch/codewars?user=YourSergic1&hide_clan=true&theme=purple_dark&top_languages=true)
