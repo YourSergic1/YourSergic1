@@ -1,5 +1,16 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
+   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400"/>
+</div>
+<div id="badges">
+   <a href="https://t.me/sergey_bugrov">
+   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+   <a href="mailto:yourserggic1@gmail.com">
+   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="LinkedIn Badge"/>
+</div>
+
 ## Hi there 👋
 
 <!--
