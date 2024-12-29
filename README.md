@@ -64,6 +64,13 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt"  alt="qt" width="40" height="40"/>&nbsp;
    <img width="12" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+   <img width="12" />
 </div>
 
 ---
@@ -88,3 +95,4 @@
 - "SQL" - тут вы можете найти проекты, реализованнные мной в рамках обучения по направлению аналитика баз данных
 - "DevOps" -  тут вы можете найти проекты, реализованнные мной в рамках обучения по направлению DevOps 
 - "Career Track" -  тут вы можете найти мои цели в карьере и дальнейшем развитии
+- "Java" -  тут вы можете найти проекты, реализованнные мной на языке программирования Java
