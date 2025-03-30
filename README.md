@@ -1,13 +1,13 @@
-<div id="header" align="center">
+<div align="center">
    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600"/>
 </div>
 
-<h1 align="center">Привет👋 Меня зовут Сергей!</h1>
+<h1 align="center">Hello👋 I'm Sergey!</h1>
 
-<div id="badges" align="center">
+<div align="center">
    <a href="https://t.me/sergey_bugrov">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-      </a>
+   </a>
    <a href="mailto:yourserggic1@gmail.com">
    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
    </a>
@@ -15,86 +15,82 @@
    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Vk Badge"/>
    </a>
 </div>
+
 <div align="center">
-
-###
-
-  <img src="https://komarev.com/ghpvc/?username=yoursergic1&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=yoursergic1&style=flat-square&color=blue" alt=""/>
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
-Меня зовут Сергей, мне 25 лет, я из прекрасного города Казань 🌆. 
-Если у вас есть желание, то вы можете ознакомиться с моей само-презентацией https://drive.google.com/file/d/1JGCW5DEZo2dpyrnlQ2zIC9wUwfpWP3LL/view?usp=drive_link  
-<h4 align="left">Образование 🎓:</h4>
+My name is Sergey, I'm 25 years old from the beautiful city of Kazan 🌆.  
+You can check out my self-presentation here:  
+https://drive.google.com/file/d/1JGCW5DEZo2dpyrnlQ2zIC9wUwfpWP3LL/view?usp=drive_link  
 
-- Закончил Казанский Государственный Энергетический Университет в 2024 году, получив высшее образование по направлению "Программное обеспечение вычислительной техники" 💻.
-- Сейчас активно развиваю свои навыки программирования в "School 21 by Sber", где учусь писать элегантный и эффективный код<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- В свободное вркмя решаю задачки на Leet Code 🧮.
+<h4 align="left">Education 🎓:</h4>
 
-<h4 align="left">Интересы 🎓:</h4>
+- Graduated from Kazan State Power Engineering University in 2024 with a degree in "Computer Software" 💻
+- Currently improving my programming skills at "School 21 by Sber" where I learn to write elegant and efficient code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Solve problems on LeetCode in my free time 🧮
 
-- Как вы уже могли догадаться, я активно интересуюсь программированием и it-технологиями 🤖.
-- Активно увлекаюсь волейболом и всем что сним связано 🏐🥇.
-- Хожу в зал 🏋🏻‍♀️.
-- Люблю играть в компьютерные игры, а особенно интересно их деалть 🎮. 
+<h4 align="left">Interests 🏆:</h4>
 
-<h4 align="left">Опыт 📚:</h4>
+- As you might guess, I'm passionate about programming and IT technologies 🤖
+- Active volleyball enthusiast 🏐🥇
+- Gym lover 🏋️
+- Enjoy playing computer games and especially interested in game development 🎮
 
-- С 2015 года по 2018 год работал вожатым в английском лагере в летнее время 🌄.
-- В 2020 году жил и работал в Америке спасателем в течении 4 месяцев 🛟. В Америку попал по программе Work And Travel 🗽.
-- В 2021 году отслужил срочную службу в ВС РФ🪖.
-- С 2022 года по 2024 работал Инженером в компании Инфоматика 1️⃣. Занимался лазерной резкой, гравировкой, заливкой жидкого пластика 🚧.
+<h4 align="left">Experience 📚:</h4>
+
+- Worked as a camp counselor at an English summer camp from 2015 to 2018 🌄
+- Lived and worked in the US as a lifeguard for 4 months in 2020 through the Work and Travel program 🗽🛟
+- Completed mandatory military service in the Russian Armed Forces in 2021 🪖
+- Worked as an Engineer at Informatika company from 2022 to 2024, specializing in laser cutting, engraving and liquid plastic molding 🚧
 
 ---
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Tech Stack:</h3>
 
 <div align="left">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PSQL"  alt="PSQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="С"  alt="С" width="60" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Сplusplus"  alt="Сplusplus" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git"  alt="git" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt"  alt="qt" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
    <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
    <img width="12" />
 </div>
 
 ---
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoursergic1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="250" alt="languages graph"  />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoursergic1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="250" alt="languages graph" />
 
 ---
 
-
-   ![Leetcode Stats](https://leetcard.jacoblin.cool/titandea?theme=light,unicorn)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/titandea?theme=light,unicorn)
 
 ---
 
-Дам краткое описание репозиториев:
+Brief repository descriptions:
 
-- "С" - тут вы можете найти проекты, реализованнные мной на языке программирования С
-- "С++" - тут вы можете найти проекты, реализованнные мной на языке программирования С++
-- "С#" - тут вы можете найти проекты, реализованнные мной на языке программирования С#
-- "SQL" - тут вы можете найти проекты, реализованнные мной в рамках обучения по направлению аналитика баз данных
-- "DevOps" -  тут вы можете найти проекты, реализованнные мной в рамках обучения по направлению DevOps 
-- "Career Track" -  тут вы можете найти мои цели в карьере и дальнейшем развитии
-- "Java" -  тут вы можете найти проекты, реализованнные мной на языке программирования Java
+- "C" - projects implemented in C programming language
+- "C++" - projects implemented in C++ programming language  
+- "C#" - projects implemented in C# programming language
+- "SQL" - database analytics projects
+- "DevOps" - DevOps related projects
+- "Career Track" - my career goals and development plans
+- "Java" - projects implemented in Java programming language
